@@ -1,0 +1,25 @@
+# Jupyter Notebook geçici dosyaları
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Büyük veri setleri ve otomatik üretilen veritabanları (GitHub 100 MB sınırı)
+vehicles.csv.zip
+*.zip
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+
+# Python derleme ve sanal ortam dosyaları
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# İşletim sistemi ve IDE geçici dosyaları
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
